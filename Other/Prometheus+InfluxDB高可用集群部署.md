@@ -1,3 +1,4 @@
+### Prometheus+InfluxDB高可用集群部署
 ### 一. 安装InfluxDB Enterprise
 
 #### 1. 安装meta node
